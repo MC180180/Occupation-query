@@ -31,9 +31,9 @@ cd memory-monitor
 ```
 ## 项目结构
 
-> memory-monitor/
-> ├── cx.py               # 主程序入口
-> ├── 数据转图片.py        # 字面意思
-> ├── icon.png / icon.ico # 应用图标
-> ├── README.md           # 项目说明文件
-> ├── requirements.txt    # 依赖列表
+memory-monitor/
+> cx.py               # 主程序入口
+> 数据转图片.py        # 字面意思
+> icon.png / icon.ico # 应用图标
+> README.md           # 项目说明文件
+> requirements.txt    # 依赖列表
