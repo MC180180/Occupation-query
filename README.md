@@ -23,11 +23,10 @@
 
 ## 安装与运行
 
-### 克隆项目
+### 依赖
 
 ```bash
-git clone https://github.com/yourusername/memory-monitor.git
-cd memory-monitor
+pip install PyQt5 psutil matplotlib numpy
 ```
 ## 项目结构
 
